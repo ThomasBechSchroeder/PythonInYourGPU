@@ -11,6 +11,6 @@ If you do not have a nvidia GPU, you can try out a notebook in Colab:
  [rumdpy: my first simulation](my_first_simulation.ipynb)  
 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/ThomasBechSchroeder/PythonInYourGPU/blob/main/phase_behavior.ipynb)
- [rumdpy: phase behavior](phase_behavior.ipynb)  (Experimental)
+ [rumdpy: phase behavior](phase_behavior.ipynb)  (Experimental, [Youtube](https://www.youtube.com/watch?v=s2K1JfNR7Sc) )
 
 
