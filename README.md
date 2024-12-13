@@ -1,7 +1,7 @@
 # PythonInYourGPU
-Examples of how to program your GPU (nvidia) in Python using the 'numba' package.
+Examples of how to program your nvidia GPU in Python using the [numba](https://numba.pydata.org/) package.
 
-If you do not have a nvidia GPU, you can try out a notebook in Colab: 
+If you do not have a nvidia GPU, you can run the notebookes in [Google Colab](https://colab.research.google.com/), which provides GPU's free of charge: 
 1) push the 'Open in Colab' button.
 2) When the notebook is open in Colab, choose a runtime type with GPU before running ( under "Runtime" / "Change runtime type").
 
